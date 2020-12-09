@@ -5,6 +5,7 @@ import random
 pygame.init()
 # 设置屏幕宽高，根据背景图调整
 bg_img = "bg.jpeg"
+#bg_img = "af.jpg"
 bg_size = (900, 500)
 screen = pygame.display.set_mode(bg_size)
 pygame.display.set_caption("雪景图")
